@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ridz-Web.github.io/FamilyBlog",
+  "homepage": "https://Ridz-Web.github.io/FamilyBlog/",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
